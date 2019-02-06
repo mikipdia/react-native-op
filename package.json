@@ -1,0 +1,32 @@
+{
+  "name": "react-native-op",
+  "version": "1.0.0",
+  "description": "Repositorio opcional de open pay, sin el error del Image (ImageBackground)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikipdia/react-native-op.git"
+  },
+  "author": "mikipdia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikipdia/react-native-op/issues"
+  },
+  "homepage": "https://github.com/mikipdia/react-native-op#readme",
+  "dependencies": {
+    "buffer": "^5.2.0",
+    "react-native-credit-card-input-image": "^1.0.0",
+    "react-native-device-info": "^0.22.2",
+    "react-native-elements": "^0.19.1",
+    "sprintf-js": "^1.1.1",
+    "user": "0.0.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "patch-package": "^5.1.1",
+    "postinstall-postinstall": "^1.0.0"
+  }
+}
